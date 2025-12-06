@@ -238,3 +238,7 @@ curl -X DELETE "https://dummyjson.com/todos/1" | jq
 - **Observer Pattern**: En event listeners y DOM updates
 
 ---
+
+### Mas info
+
+Puedes ver más info en la carpeta [`/docs`](./docs/).
